@@ -1,0 +1,6 @@
+cat info
+cats run
+cats eat
+cats sleep
+cats dance
+cats are cute
